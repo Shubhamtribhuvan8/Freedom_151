@@ -1,0 +1,14 @@
+/* .MuiOutlinedInput-input {
+    width: 166px !important;
+} */
+
+/* .MuiInputBase-input{
+    background-color: rosybrown;
+} */
+.css-1kcggdq-MuiInputBase-root {
+    background-color: rosybrown;
+}
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root{
+    margin: auto !important;
+    width: 78% !important;
+}
