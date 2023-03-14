@@ -1,0 +1,156 @@
+{
+  "posts": [
+    {
+      "Name": "Shubham Tribhuvan",
+      "Age": "24",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "Student",
+      "id": 1
+    },
+    {
+      "Name": "Pavan Shinde",
+      "Age": "25",
+      "Gender": "Male",
+      "Country": "USA",
+      "Profession": "Student",
+      "id": 2
+    },
+    {
+      "Name": "Satish Saware",
+      "Age": "26",
+      "Gender": "Male",
+      "Country": "Australia",
+      "Profession": "Student",
+      "id": 3
+    },
+    {
+      "Name": "Aman Wats",
+      "Age": "27",
+      "Gender": "Male",
+      "Country": "UK",
+      "Profession": "Employed",
+      "id": 4
+    },
+    {
+      "Name": "Rushikesh Katare",
+      "Age": "23",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "Student",
+      "id": 5
+    },
+    {
+      "Name": "Shubham Patil",
+      "Age": "30",
+      "Gender": "Male",
+      "Country": "Canada",
+      "Profession": "Student",
+      "id": 6
+    },
+    {
+      "Name": "Prathmesh ",
+      "Age": "22",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "Employed",
+      "id": 7
+    },
+    {
+      "Name": "Prathmesh Chavan",
+      "Age": "22",
+      "Gender": "Male",
+      "Country": "UK",
+      "Profession": "Student",
+      "id": 8
+    },
+    {
+      "Name": "Donald Trump",
+      "Age": "55",
+      "Gender": "Male",
+      "Country": "USA",
+      "Profession": "Employed",
+      "id": 9
+    },
+    {
+      "Name": "Rajat Sharma",
+      "Age": "43",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "Employed",
+      "id": 10
+    },
+    {
+      "Name": "Amitabh Bachhan",
+      "Age": "60",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "Employed",
+      "id": 11
+    },
+    {
+      "Name": "Rahul Gandhi",
+      "Age": "50",
+      "Gender": "Male",
+      "Country": "Canada",
+      "Profession": "Employed",
+      "id": 12
+    },
+    {
+      "Name": "Nrupul Dev",
+      "Age": "45",
+      "Gender": "Male",
+      "Country": "Australia",
+      "Profession": "Student",
+      "id": 13
+    },
+    {
+      "Name": "Monu Singh",
+      "Age": "15",
+      "Gender": "Male",
+      "Country": "UK",
+      "Profession": "Student",
+      "id": 14
+    },
+    {
+      "Name": "Nikhil Sharma",
+      "Age": "32",
+      "Gender": "Male",
+      "Country": "Australia",
+      "Profession": "Student",
+      "id": 15
+    },
+    {
+      "Name": "Virat Kohli",
+      "Age": "35",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "Employed",
+      "id": 16
+    },
+    {
+      "Name": "Akash Lande",
+      "Age": "26",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "Employed",
+      "id": 17
+    },
+    {
+      "Name": "Ramu Bihari",
+      "Age": "30",
+      "Gender": "Male",
+      "Country": "Canada",
+      "Profession": "Student",
+      "id": 18
+    },
+    {
+      "Name": "Alijit",
+      "Age": "26",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "Student",
+      "id": 19
+    }
+  ]
+}
